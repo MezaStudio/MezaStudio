@@ -21,7 +21,7 @@
 
 ## 📫 Get in Touch  
 Join our community and explore our projects:  
-🔗 [Discord Server](https://discord.gg/GCPTzNZnhJ) | 🌍 [Website](#) | 🛠️ [GitHub](https://github.com/MezaStudio)  
+🔗 [Discord Server](https://discord.gg/GCPTzNZnhJ) | 🛠️ [GitHub](https://github.com/MezaStudio)  
 
 ---
 
