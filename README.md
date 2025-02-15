@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @MezaStudio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=🚀+Welcome+to+Meza!;✨+MezaForAll!">
+  </a>
+</h1>
 
-<!---
-MezaStudio/MezaStudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌟 Who We Are  
+**Meza** is a team of skilled developers dedicated to crafting high-quality software solutions. We specialize in creating **web applications**, **Discord bots**, and **open-source contributions** to empower developers and businesses worldwide.
+
+## 🚀 What We Offer  
+✅ Custom **web** & **bot** development  
+✅ **Open-source** contributions  
+✅ A **professional & community-driven** approach  
+
+## 💡 Why Meza?  
+🔹 **Expertise & Innovation** – We push the limits of development to deliver outstanding results.  
+🔹 **Passionate Team** – Our developers are committed to excellence and creativity.  
+🔹 **MezaForAll** – We believe in making innovation accessible to everyone!  
+
+## 📫 Get in Touch  
+Join our community and explore our projects:  
+🔗 [Discord Server](https://discord.gg/GCPTzNZnhJ) | 🌍 [Website](#) | 🛠️ [GitHub](https://github.com/MezaStudio)  
+
+---
+
+✨ **MezaForAll – Innovation for Everyone!**
